@@ -60,3 +60,5 @@ Not stored here. All are from Google Fonts under the [SIL Open Font License](htt
 ## Edits on `on-site/`
 
 The site's versions were made by cutting images out of their backgrounds, removing watermarks, recoloring to the design palette, separating frames and pieces, and cropping. `plate-rusted.webp` is shared under CC BY-SA 4.0, as its original requires.
+
+This summary was assisted by AI due to time concerns.
