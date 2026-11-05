@@ -1,5 +1,7 @@
 # Applications for Xenia: assets
 
+### All images on site were cut processed and or edited to be used
+
 Every image behind [Applications for Xenia](https://highestinthesky.github.io/applications-for-xenia/)
 
 | Preview | File | Use | Source | License |
@@ -50,15 +52,11 @@ Every image behind [Applications for Xenia](https://highestinthesky.github.io/ap
 
 ## Fonts
 
-Not stored here. All are from Google Fonts under the [SIL Open Font License](https://openfontlicense.org/):
+All used Google Fonts under the [SIL Open Font License](https://openfontlicense.org/):
 
 - [Fondamento](https://fonts.google.com/specimen/Fondamento) by Astigmatic
 - [Pinyon Script](https://fonts.google.com/specimen/Pinyon+Script) by Nicole Fally
 - [Commissioner](https://fonts.google.com/specimen/Commissioner) by Kostas Bartsokas
 - [Faculty Glyphic](https://fonts.google.com/specimen/Faculty+Glyphic) by Koto Studio
-
-## Edits on `on-site/`
-
-The site's versions were made by cutting images out of their backgrounds, removing watermarks, recoloring to the design palette, separating frames and pieces, and cropping. `plate-rusted.webp` is shared under CC BY-SA 4.0, as its original requires.
 
 This summary was assisted by AI due to time concerns.
